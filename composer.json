@@ -1,19 +1,16 @@
 {
-    "name": "medialearn/server-side-rendering",
+    "name": "medialearn/php-ssr-render",
     "description": "Server side rendering JavaScript in your PHP application",
     "keywords": [
-        "spatie",
-        "ssr",
         "server-side-rendering"
     ],
-    "homepage": "https://github.com/spatie/server-side-rendering",
+    "homepage": "https://github.com/ebrahimimasod/server-side-rendering",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sebastian De Deyne",
-            "email": "sebastian@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
+            "name": "Masoud ebrahimi",
+            "email": "ebrahimimasod@gmail.com",
+           
         }
     ],
     "require": {
